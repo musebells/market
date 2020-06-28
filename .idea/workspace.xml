@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="" />
+    <list default="true" id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DEV_Karelin Maxim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logo.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,28 +36,48 @@
       <executable />
     </execution>
   </component>
-  <component name="ProjectId" id="1dv4iwOJWNvKgHW0uXFBODdYnJE" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="56" />
+    <option name="y" value="-17" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="" />
-      <created>1593292363695</created>
+      <changelist id="71987b69-6495-4047-ba2f-9dc91141fda5" name="Default" comment="" />
+      <created>1525932425381</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593292363695</updated>
-      <workItem from="1593292364835" duration="340000" />
+      <updated>1525932425381</updated>
+      <workItem from="1525932426491" duration="875000" />
+      <workItem from="1525933475983" duration="11812000" />
+      <workItem from="1526467188365" duration="73000" />
     </task>
     <servers />
   </component>
@@ -41,13 +85,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1081" y="456" width="356" height="167" key="Github.CreateGistDialog" timestamp="1593292733520">
+    <state x="1052" y="405" key="git4idea.rebase.GitRebaseDialog" timestamp="1593357301657">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state x="1081" y="456" width="356" height="167" key="Github.CreateGistDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1593292733520" />
-    <state x="748" y="183" key="SettingsEditor" timestamp="1593292704683">
-      <screen x="0" y="0" width="2494" height="1080" />
-    </state>
-    <state x="748" y="183" key="SettingsEditor/0.0.2494.1080@0.0.2494.1080" timestamp="1593292704683" />
+    <state x="1052" y="405" key="git4idea.rebase.GitRebaseDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1593357301657" />
   </component>
 </project>

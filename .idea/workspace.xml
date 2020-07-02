@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DEV_Karelin Maxim.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maket/Checkout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maket/Index.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maket/Maket.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maket/Product.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maket/Shopping Cart.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maket/Single Page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,41 +24,99 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Sass File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="56" />
-    <option name="y" value="-17" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectId" id="1e04g1FHTuMGA4gJknDgyaOsfqO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project_express/dist/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\PhpstormProjects\market\project_express\dist\public" />
+      <recent name="C:\Users\karel\PhpstormProjects\market\project_express\src\public" />
+      <recent name="C:\Users\karel\PhpstormProjects\market\project_express\src\public\css" />
+      <recent name="C:\Users\karel\PhpstormProjects\market" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\PhpstormProjects\market" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="buildDev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/project_express/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="buildDev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/project_express/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.buildDev" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71987b69-6495-4047-ba2f-9dc91141fda5" name="Default" comment="" />
+      <changelist id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="" />
       <created>1525932425381</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -78,6 +124,14 @@
       <workItem from="1525932426491" duration="875000" />
       <workItem from="1525933475983" duration="11812000" />
       <workItem from="1526467188365" duration="73000" />
+      <workItem from="1593445287470" duration="30000" />
+      <workItem from="1593445324918" duration="2209000" />
+      <workItem from="1593623517214" duration="1124000" />
+      <workItem from="1593624651043" duration="660000" />
+      <workItem from="1593625323884" duration="297000" />
+      <workItem from="1593625632566" duration="382000" />
+      <workItem from="1593626025125" duration="228000" />
+      <workItem from="1593710676575" duration="1208000" />
     </task>
     <servers />
   </component>
@@ -85,9 +139,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="2451" height="295" key="GridCell.Tab.0.bottom" timestamp="1593711934447">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="295" key="GridCell.Tab.0.bottom/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
+    <state width="2451" height="295" key="GridCell.Tab.0.center" timestamp="1593711934447">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="295" key="GridCell.Tab.0.center/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
+    <state width="2451" height="295" key="GridCell.Tab.0.left" timestamp="1593711934447">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="295" key="GridCell.Tab.0.left/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
+    <state width="2451" height="295" key="GridCell.Tab.0.right" timestamp="1593711934447">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="295" key="GridCell.Tab.0.right/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
+    <state x="943" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1593710875092">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state x="943" y="364" key="com.intellij.ide.util.TipDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1593710875092" />
     <state x="1052" y="405" key="git4idea.rebase.GitRebaseDialog" timestamp="1593357301657">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
     <state x="1052" y="405" key="git4idea.rebase.GitRebaseDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1593357301657" />
+    <state x="903" y="250" key="run.anything.popup" timestamp="1593528525024">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state x="903" y="250" key="run.anything.popup/0.0.2494.1080@0.0.2494.1080" timestamp="1593528525024" />
+    <state x="910" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1593380983146">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state x="910" y="235" width="672" height="678" key="search.everywhere.popup/0.0.2494.1080@0.0.2494.1080" timestamp="1593380983146" />
   </component>
 </project>

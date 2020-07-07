@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maket/Checkout.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maket/Index.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maket/Maket.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maket/Product.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maket/Shopping Cart.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maket/Single Page.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/header-footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/dist/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/js/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/dist/public/js/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/src/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/src/public/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +67,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\PhpstormProjects\market" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\karel\PhpstormProjects\market\project_express\dist\public" />
       <recent name="C:\Users\karel\PhpstormProjects\market\project_express\src\public" />
       <recent name="C:\Users\karel\PhpstormProjects\market\project_express\src\public\css" />
-      <recent name="C:\Users\karel\PhpstormProjects\market" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karel\PhpstormProjects\market" />
     </key>
   </component>
@@ -132,6 +126,9 @@
       <workItem from="1593625632566" duration="382000" />
       <workItem from="1593626025125" duration="228000" />
       <workItem from="1593710676575" duration="1208000" />
+      <workItem from="1593789214932" duration="599000" />
+      <workItem from="1593876089442" duration="5854000" />
+      <workItem from="1594063665232" duration="599000" />
     </task>
     <servers />
   </component>
@@ -139,26 +136,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2451" height="295" key="GridCell.Tab.0.bottom" timestamp="1593711934447">
+    <state width="2451" height="295" key="GridCell.Tab.0.bottom" timestamp="1593892121484">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.bottom/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
-    <state width="2451" height="295" key="GridCell.Tab.0.center" timestamp="1593711934447">
+    <state width="2451" height="295" key="GridCell.Tab.0.bottom/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
+    <state width="2451" height="295" key="GridCell.Tab.0.center" timestamp="1593892121484">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.center/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
-    <state width="2451" height="295" key="GridCell.Tab.0.left" timestamp="1593711934447">
+    <state width="2451" height="295" key="GridCell.Tab.0.center/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
+    <state width="2451" height="295" key="GridCell.Tab.0.left" timestamp="1593892121484">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.left/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
-    <state width="2451" height="295" key="GridCell.Tab.0.right" timestamp="1593711934447">
+    <state width="2451" height="295" key="GridCell.Tab.0.left/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
+    <state width="2451" height="295" key="GridCell.Tab.0.right" timestamp="1593892121484">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.right/0.0.2494.1080@0.0.2494.1080" timestamp="1593711934447" />
-    <state x="943" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1593710875092">
+    <state width="2451" height="295" key="GridCell.Tab.0.right/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
+    <state x="943" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1594154363529">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state x="943" y="364" key="com.intellij.ide.util.TipDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1593710875092" />
+    <state x="943" y="364" key="com.intellij.ide.util.TipDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1594154363529" />
     <state x="1052" y="405" key="git4idea.rebase.GitRebaseDialog" timestamp="1593357301657">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>

@@ -11291,6 +11291,22 @@ var cart = {
 
 /***/ }),
 
+/***/ "./src/public/js/ContentComp.js":
+/*!**************************************!*\
+  !*** ./src/public/js/ContentComp.js ***!
+  \**************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+var indexCont = {
+  template: "\n    <div>\n    <div class=\"slider\">\n        <div class=\"container slider-container\">\n            <div class=\"slider-text\">\n                <h2>THE BRAND</h2>\n                <h3>OF LUXERIOUS <span>FASHION</span></h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"content\">\n        <div class=\"category\">\n            <a href=\"#\" class=\"baner1 b1\">\n                <div class=\"baner-text\">\n                    <h3>HOT DEAL</h3>\n                    <h2>FOR MAN</h2>\n                </div>\n            </a>\n            <a href=\"#\" class=\"baner2 b3\">\n                <div class=\"baner-text\">\n                    <h3>LUXIROUS &amp; TRENDY</h3>\n                    <h2>ACCESORIES</h2>\n                </div>\n            </a>\n            <a href=\"#\" class=\"baner2 b2\">\n                <div class=\"baner-text\">\n                    <h3>30% OFFER</h3>\n                    <h2>WOMEN</h2>\n                </div>\n            </a>\n            <a href=\"#\" class=\"baner1 b4\">\n                <div class=\"baner-text\">\n                    <h3>NEW ARRIVALS</h3>\n                    <h2>FOR KIDS</h2>\n                </div>\n            </a>\n        </div>\n        <div class=\"featured\">\n            <h2>Featured Items</h2>\n            <h5>Shop for items based on what we featured this week</h5>\n            <div class=\"items\">\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i1.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i2.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i3.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i4.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i5.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i6.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i7.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n                <div class=\"item\">\n                    <a href=\"#\" class=\"item-link\">\n                        <img src=\"img/i8.png\">\n                        <p>MANGO PEOPLE T-SHIRT</p>\n                        <span>52.00$</span>\n                    </a>\n                    <div class=\"add-centre\">\n                        <a href=\"#\" class=\"add\">\n                        <img src=\"img/add.png\">\n                        Add To Cart\n                    </a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"all\">\n                <a href=\"#\">\n                    <p>Browse All Product<img src=\"img/all.png\"></p>\n                </a>\n            </div>\n        </div>\n        <div class=\"info\">\n            <div class=\"info-baner\">\n                <img src=\"img/info.png\" alt=\"info-baner\">\n            </div>\n            <div class=\"info-text\">\n                <div class=\"inform\">\n                    <article>\n                        <h2><img src=\"img/forma-1.png\" class=\"f1\"> Free Delivery</h2>\n                        <p>Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</p>\n                    </article>\n                </div>\n                <div class=\"inform\">\n                    <article>\n                        <h2><img src=\"img/forma-2.png\" class=\"f2\"> Sales &amp; discounts</h2>\n                        <p>Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</p>\n                    </article>\n                </div>\n                <div class=\"inform\">\n                    <article>\n                        <h2><img src=\"img/forma-3.png\" class=\"f3\"> Quality assurance</h2>\n                        <p>Worldwide delivery on all. Authorit tively morph next-generation innov tion with extensive models.</p>\n                    </article>\n                </div>\n            </div>\n        </div>\n        <div class=\"subscribe\">\n            <div class=\"comment\">\n               <img src=\"img/comment.png\">\n               <div class=\"commentext\">\n                   <p>\u201CVestibulum quis porttitor dui! Quisque viverra nunc mi, \n                    a pulvinar purus condimentum a. Aliquam condimentum mattis neque sed pretium\u201D</p>\n                    <h3>Bin Burhan</h3>\n                    <h4>Dhaka, Bd</h4>\n               </div> \n            </div>\n            <div id=\"subs\">\n                <div class=\"subs\">\n                    <h2>SUBSCRIBE</h2>\n                    <h3>FOR OUR NEWLETTER AND PROMOTION</h3>\n                </div>\n                <div class=\"mail\">\n                        <input class=\"email\" placeholder=\"Enter Your Email\" type=\"email\">\n                        <input type=\"submit\" class=\"submit\" value=\"Subscribe\">\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n    "
+};
+/* harmony default export */ __webpack_exports__["default"] = (indexCont);
+
+/***/ }),
+
 /***/ "./src/public/js/ErrorComp.js":
 /*!************************************!*\
   !*** ./src/public/js/ErrorComp.js ***!
@@ -11340,6 +11356,22 @@ var search = {
   template: "\n            <form action=\"#\" class=\"search-form\" @submit.prevent=\"$parent.$refs.products.filter(userSearch)\">\n                <input type=\"text\" class=\"search-field\" v-model=\"userSearch\">\n                <button class=\"btn-search\" type=\"submit\">\n                    <i class=\"fas fa-search\"></i>\n                </button>\n            </form>\n    "
 };
 /* harmony default export */ __webpack_exports__["default"] = (search);
+
+/***/ }),
+
+/***/ "./src/public/js/FooterComp.js":
+/*!*************************************!*\
+  !*** ./src/public/js/FooterComp.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+var foot = {
+  template: "\n    <div>\n    <div id=\"about\">\n      <article class=\"ab\">\n          <h2><img src=\"img/br2.png\">BRAN<span><b>D</b></span></h2>\n            <p class=\"p1a\">Objectively transition extensive data rather than cross functional solutions. Monotonectally syndicate multidisciplinary materials before go forward benefits. Intrinsicly syndicate an expanded array of processes and cross-unit partnerships.\n            <br><br> Efficiently plagiarize 24/365 action items and focused infomediaries.\n            Distinctively seize superior initiatives for wireless technologies. Dynamically optimize.\n            </p>\n      </article>\n      <div class=\"about company\">\n          <h2>COMPANY</h2>\n          <nav class=\"nav\">\n              <a href=\"#\">Home</a>\n              <a href=\"#\">Shop</a>\n              <a href=\"#\">About</a>\n              <a href=\"#\">How It Works</a>\n              <a href=\"#\">Contact</a>\n          </nav>\n      </div>\n      <div class=\"about information\">\n          <h2>INFORMATION</h2>\n          <nav class=\"nav\">\n              <a href=\"#\">Tearms &amp; Condition</a>\n              <a href=\"#\">Privacy Policy</a>\n              <a href=\"#\">How to Buy</a>\n              <a href=\"#\">How to Sell</a>\n              <a href=\"#\">Promotion</a>\n          </nav>\n      </div>\n      <div class=\"about sh-category\">\n          <h2>SHOP CATEGORY</h2>\n          <nav class=\"nav\">\n              <a href=\"#\">Men</a>\n              <a href=\"#\">Women</a>\n              <a href=\"#\">Child</a>\n              <a href=\"#\">Apparel</a>\n              <a href=\"#\">Browse All</a>\n          </nav>\n      </div>\n    </div>\n    <footer>\n        <div id=\"footer\">\n            <p>&copy;2017  Brand  All Rights Reserved.</p>\n            <div id=\"social\">\n                <a href=\"#\"> <i class=\"fab fa-facebook-f fb\"></i></a>\n                <a href=\"#\"> <i class=\"fab fa-twitter fb\"></i></a>\n                <a href=\"#\"> <i class=\"fab fa-linkedin-in in\"></i></a>\n                <a href=\"#\"> <i class=\"fab fa-pinterest-p fb\"></i></a>\n                <a href=\"#\"> <i class=\"fab fa-google-plus-g fb\"></i></a>\n            </div>\n        </div>\n    </footer>\n</div>\n    "
+};
+/* harmony default export */ __webpack_exports__["default"] = (foot);
 
 /***/ }),
 
@@ -11459,6 +11491,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _FilterComp__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./FilterComp */ "./src/public/js/FilterComp.js");
 /* harmony import */ var _ErrorComp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ErrorComp */ "./src/public/js/ErrorComp.js");
 /* harmony import */ var _HeaderComp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./HeaderComp */ "./src/public/js/HeaderComp.js");
+/* harmony import */ var _ContentComp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./ContentComp */ "./src/public/js/ContentComp.js");
+/* harmony import */ var _FooterComp__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./FooterComp */ "./src/public/js/FooterComp.js");
+
+
 
 
 
@@ -11468,11 +11504,14 @@ var app = {
   el: '#app',
   components: {
     top: _HeaderComp__WEBPACK_IMPORTED_MODULE_4__["default"],
+    indexCont: _ContentComp__WEBPACK_IMPORTED_MODULE_5__["default"],
     cart: _CartComp__WEBPACK_IMPORTED_MODULE_0__["default"],
     products: _ProducComp__WEBPACK_IMPORTED_MODULE_1__["default"],
     error: _ErrorComp__WEBPACK_IMPORTED_MODULE_3__["default"],
-    search: _FilterComp__WEBPACK_IMPORTED_MODULE_2__["default"]
+    search: _FilterComp__WEBPACK_IMPORTED_MODULE_2__["default"],
+    foot: _FooterComp__WEBPACK_IMPORTED_MODULE_6__["default"]
   },
+  template: "<div>\n    <top></top>\n    <indexCont></indexCont>\n    <foot></foot>\n    <header>\n        <div class=\"logo\">\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442-\u043C\u0430\u0433\u0430\u0437\u0438\u043D</div>\n        <div class=\"cart\">\n            <search></search>\n            <cart ref=\"cart\"></cart>\n        </div>\n    </header>\n    <main>\n        <products ref=\"products\"></products>\n        <error ref=\"error\"></error>\n    </main>\n    </div>\n        ",
   methods: {
     getJson: function getJson(url) {
       var _this = this;

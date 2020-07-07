@@ -3,18 +3,39 @@ import products from './ProducComp'
 import search from './FilterComp'
 import error from './ErrorComp'
 import top from "./HeaderComp";
+import indexCont from "./ContentComp";
+import foot from "./FooterComp";
 
 const app = {
     el: '#app',
     components: {
         top,
+        indexCont,
         cart,
         products,
         error,
         search,
+        foot,
 
     },
 
+    template: `<div>
+    <top></top>
+    <indexCont></indexCont>
+    <foot></foot>
+    <header>
+        <div class="logo">Интернет-магазин</div>
+        <div class="cart">
+            <search></search>
+            <cart ref="cart"></cart>
+        </div>
+    </header>
+    <main>
+        <products ref="products"></products>
+        <error ref="error"></error>
+    </main>
+    </div>
+        `,
 
     methods: {
         getJson(url) {

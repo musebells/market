@@ -3,10 +3,67 @@
   <component name="ChangeListManager">
     <list default="true" id="c37894d5-d935-4d61-ac7b-c76b701344f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/1cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/2-layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/2cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/3cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/X.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/acc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/arleft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/arright.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/baner1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/baner1-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/baner2-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/baner2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/br2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/brw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/cart-mega1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/cart-mega2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/forma-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/forma-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/forma-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/g+.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/i8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/product/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/red-cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/single-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/subscribe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/dist/public/img/tw.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project_express/dist/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/dist/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_express/dist/public/js/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/dist/public/js/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project_express/src/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/src/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_express/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/project_express/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +186,9 @@
       <workItem from="1593789214932" duration="599000" />
       <workItem from="1593876089442" duration="5854000" />
       <workItem from="1594063665232" duration="599000" />
+      <workItem from="1594154363569" duration="396000" />
+      <workItem from="1594154771728" duration="2949000" />
+      <workItem from="1594161798556" duration="2355000" />
     </task>
     <servers />
   </component>
@@ -136,26 +196,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2451" height="295" key="GridCell.Tab.0.bottom" timestamp="1593892121484">
+    <state x="872" y="133" key="CommitChangelistDialog2" timestamp="1594164390702">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.bottom/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
-    <state width="2451" height="295" key="GridCell.Tab.0.center" timestamp="1593892121484">
+    <state x="872" y="133" key="CommitChangelistDialog2/0.0.2494.1080@0.0.2494.1080" timestamp="1594164390702" />
+    <state width="2451" height="295" key="GridCell.Tab.0.bottom" timestamp="1594162791886">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.center/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
-    <state width="2451" height="295" key="GridCell.Tab.0.left" timestamp="1593892121484">
+    <state width="2451" height="295" key="GridCell.Tab.0.bottom/0.0.2494.1080@0.0.2494.1080" timestamp="1594162791886" />
+    <state width="2451" height="295" key="GridCell.Tab.0.center" timestamp="1594162791886">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.left/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
-    <state width="2451" height="295" key="GridCell.Tab.0.right" timestamp="1593892121484">
+    <state width="2451" height="295" key="GridCell.Tab.0.center/0.0.2494.1080@0.0.2494.1080" timestamp="1594162791886" />
+    <state width="2451" height="295" key="GridCell.Tab.0.left" timestamp="1594162791886">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state width="2451" height="295" key="GridCell.Tab.0.right/0.0.2494.1080@0.0.2494.1080" timestamp="1593892121484" />
-    <state x="943" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1594154363529">
+    <state width="2451" height="295" key="GridCell.Tab.0.left/0.0.2494.1080@0.0.2494.1080" timestamp="1594162791886" />
+    <state width="2451" height="295" key="GridCell.Tab.0.right" timestamp="1594162791886">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>
-    <state x="943" y="364" key="com.intellij.ide.util.TipDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1594154363529" />
+    <state width="2451" height="295" key="GridCell.Tab.0.right/0.0.2494.1080@0.0.2494.1080" timestamp="1594162791886" />
+    <state x="943" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1594161798437">
+      <screen x="0" y="0" width="2494" height="1080" />
+    </state>
+    <state x="943" y="364" key="com.intellij.ide.util.TipDialog/0.0.2494.1080@0.0.2494.1080" timestamp="1594161798437" />
     <state x="1052" y="405" key="git4idea.rebase.GitRebaseDialog" timestamp="1593357301657">
       <screen x="0" y="0" width="2494" height="1080" />
     </state>

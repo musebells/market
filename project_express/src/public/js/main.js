@@ -6,6 +6,7 @@ import top from "./HeaderComp";
 import indexCont from "./ContentComp";
 import foot from "./FooterComp";
 
+
 const app = {
     el: '#app',
     components: {

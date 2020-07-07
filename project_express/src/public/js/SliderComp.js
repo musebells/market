@@ -1,0 +1,6 @@
+const slider = {
+    template: ``,
+    data(){
+        
+    },
+};

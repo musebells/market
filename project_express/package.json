@@ -18,11 +18,15 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.0",
+    "@chenfengyuan/vue-carousel": "^1.0.5",
     "bootstrap": "^4.5.0",
     "express": "^4.17.1",
+    "hooper": "^0.3.4",
     "jquery": "^3.5.1",
     "moment": "^2.24.0",
-    "popper": "^1.0.1"
+    "popper": "^1.0.1",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
